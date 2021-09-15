@@ -1,1 +1,1 @@
-# C26-HW-EPIC-ARCHERY-STAGE-5
+# project-C26-template
